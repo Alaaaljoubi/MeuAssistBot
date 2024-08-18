@@ -1,0 +1,1312 @@
+{
+    "Admissions": [
+        {
+            "question": "What are the admission requirements for undergraduate programs?",
+            "answer": "The admission requirements for undergraduate programs include a high school diploma, SAT/ACT scores, and a completed application form."
+        },
+        {
+            "question": "How can I apply for a graduate program?",
+            "answer": "You can apply for a graduate program through the university's online application portal, where you'll need to submit transcripts, letters of recommendation, and a statement of purpose."
+        },
+        {
+            "question": "Are there any scholarships available for international students?",
+            "answer": "Yes, the university offers several scholarships specifically for international students based on academic merit and financial need."
+        },
+        {
+            "question": "What is the application deadline for fall semester?",
+            "answer": "The application deadline for the fall semester is typically in early January, but it's recommended to check the official website for specific dates."
+        },
+        {
+            "question": "Can I apply for more than one program at the same time?",
+            "answer": "Yes, you can apply for multiple programs simultaneously, but you will need to submit separate applications and meet the requirements for each program."
+        },
+        {
+            "question": "What documents are required for admission?",
+            "answer": "The required documents typically include transcripts, letters of recommendation, a personal statement, and standardized test scores. Specific requirements may vary by program."
+        },
+        {
+            "question": "Is there an application fee?",
+            "answer": "Yes, there is an application fee that varies depending on the program. Fee waivers are available for eligible applicants."
+        },
+        {
+            "question": "How can I check the status of my application?",
+            "answer": "You can check the status of your application through the university's online application portal using your login credentials."
+        },
+        {
+            "question": "What are the English language proficiency requirements?",
+            "answer": "Non-native English speakers are required to submit TOEFL or IELTS scores to demonstrate English language proficiency."
+        }
+    ],
+    "Academics": [
+        {
+            "question": "What majors and minors are offered at the university?",
+            "answer": "The university offers a wide range of majors and minors across various fields, including engineering, business, arts, and sciences."
+        },
+        {
+            "question": "How can I change my major?",
+            "answer": "To change your major, you need to fill out a major change form available at the academic advising office and get it approved by your current and prospective departments."
+        },
+        {
+            "question": "What is the grading system at the university?",
+            "answer": "The university uses a 4.0 grading scale, where A is 4.0, B is 3.0, C is 2.0, D is 1.0, and F is 0.0."
+        },
+        {
+            "question": "How do I declare a minor?",
+            "answer": "You can declare a minor by completing a minor declaration form and getting it approved by the department offering the minor."
+        },
+        {
+            "question": "Are there any honors programs available?",
+            "answer": "Yes, the university offers honors programs that provide academically talented students with opportunities for advanced study and research."
+        },
+        {
+            "question": "Can I take courses from other universities?",
+            "answer": "Yes, students may take courses at other accredited institutions and transfer the credits, subject to approval by the university."
+        },
+        {
+            "question": "What is the process for withdrawing from a course?",
+            "answer": "To withdraw from a course, you need to submit a course withdrawal form to the registrar's office before the withdrawal deadline."
+        },
+        {
+            "question": "How do I get academic advising?",
+            "answer": "Academic advising is available through your assigned advisor, whom you can contact via email to schedule an appointment."
+        },
+        {
+            "question": "What is the academic calendar for the upcoming year?",
+            "answer": "The academic calendar includes important dates like the start and end of classes, holidays, and exam periods, and it can be found on the university's website."
+        }
+    ],
+    "Campus Life": [
+        {
+            "question": "What student organizations are available?",
+            "answer": "The university has a wide range of student organizations, including academic clubs, cultural associations, and recreational groups."
+        },
+        {
+            "question": "How can I join a student organization?",
+            "answer": "You can join a student organization by attending their meetings, signing up during club fairs, or contacting the organization directly."
+        },
+        {
+            "question": "What housing options are available on campus?",
+            "answer": "The university offers several on-campus housing options, including dormitories, apartments, and living-learning communities."
+        },
+        {
+            "question": "Are there dining facilities on campus?",
+            "answer": "Yes, there are multiple dining facilities on campus offering a variety of food options, including vegetarian and vegan meals."
+        },
+        {
+            "question": "How can I stay informed about campus events?",
+            "answer": "You can stay informed about campus events through the university's online events calendar, social media, and student newsletters."
+        },
+        {
+            "question": "What recreational facilities are available on campus?",
+            "answer": "The university provides recreational facilities including a gym, swimming pool, sports courts, and fitness classes."
+        },
+        {
+            "question": "Is there a campus shuttle service?",
+            "answer": "Yes, the university offers a campus shuttle service that runs between different buildings and nearby off-campus locations."
+        },
+        {
+            "question": "How can I get involved in volunteer activities?",
+            "answer": "You can get involved in volunteer activities by joining service organizations or participating in events organized by the campus volunteer center."
+        },
+        {
+            "question": "What mental health services are available?",
+            "answer": "The university provides mental health services, including counseling, therapy sessions, and wellness workshops, available to all students."
+        }
+    ],
+    "Financial Aid": [
+        {
+            "question": "How do I apply for financial aid?",
+            "answer": "You can apply for financial aid by completing the FAFSA form online and submitting any additional documents required by the university's financial aid office."
+        },
+        {
+            "question": "What scholarships are available for students?",
+            "answer": "Scholarships are available through the university, private organizations, and academic departments. Information can be found on the university's financial aid webpage."
+        },
+        {
+            "question": "How do I check the status of my financial aid application?",
+            "answer": "You can check the status of your financial aid application by logging into the student portal or contacting the financial aid office."
+        },
+        {
+            "question": "What is the deadline for submitting financial aid applications?",
+            "answer": "The deadline for submitting financial aid applications varies, but it's typically in early spring for the upcoming academic year."
+        },
+        {
+            "question": "How do I apply for a student loan?",
+            "answer": "You can apply for a student loan by completing the FAFSA and selecting loan options through the financial aid office."
+        },
+        {
+            "question": "What is work-study, and how do I apply for it?",
+            "answer": "Work-study is a program that allows students to work part-time while attending school. You can apply for work-study by indicating your interest on the FAFSA form."
+        },
+        {
+            "question": "How are financial aid packages determined?",
+            "answer": "Financial aid packages are determined based on your financial need, academic merit, and available funding."
+        },
+        {
+            "question": "What should I do if I have trouble paying my tuition?",
+            "answer": "If you have trouble paying your tuition, contact the financial aid office to discuss payment plans, additional aid, or emergency funding options."
+        },
+        {
+            "question": "Can I appeal my financial aid award?",
+            "answer": "Yes, you can appeal your financial aid award if your financial situation has changed. Contact the financial aid office to learn more about the appeal process."
+        },
+        {
+            "question": "How do I apply for a scholarship?",
+            "answer": "You can apply for scholarships by submitting applications through the university's scholarship portal and meeting the specific criteria for each scholarship."
+        }
+    ],
+    "Departments": [
+        {
+            "question": "What departments are there in the university?",
+            "answer": "The university has various departments, including Computer Science, Electrical Engineering, Business Administration, and Fine Arts."
+        },
+        {
+            "question": "How can I contact the Computer Science department?",
+            "answer": "You can contact the Computer Science department via email at cs_dept@university.edu or by phone at (123) 456-7890."
+        },
+        {
+            "question": "Who is the head of the Electrical Engineering department?",
+            "answer": "The head of the Electrical Engineering department is Dr. Jane Doe."
+        },
+        {
+            "question": "Where is the Business Administration department located?",
+            "answer": "The Business Administration department is located in Building B, Room 210."
+        },
+        {
+            "question": "What research opportunities are available in the Fine Arts department?",
+            "answer": "The Fine Arts department offers various research opportunities, including collaborative projects, exhibitions, and internships."
+        },
+        {
+            "question": "How can I find out more about the faculty in the Business Administration department?",
+            "answer": "You can find more information about the faculty in the Business Administration department on the department's webpage, which includes faculty profiles and contact information."
+        },
+        {
+            "question": "What courses are offered by the Computer Science department?",
+            "answer": "The Computer Science department offers courses in programming, data structures, algorithms, machine learning, and more."
+        },
+        {
+            "question": "What courses are offered by the Computer Science department?",
+            "answer": "The Computer Science department offers courses in programming, data structures, algorithms, machine learning, and more."
+        },
+        {
+            "question": "How can I apply for a research assistant position in the Electrical Engineering department?",
+            "answer": "You can apply for a research assistant position by contacting the department faculty directly and submitting your resume and research interests."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in Business Administration courses?",
+            "answer": "Prerequisites for Business Administration courses vary but typically include introductory courses in economics, accounting, and management."
+        },
+        {
+            "question": "Are there any department-specific scholarships available?",
+            "answer": "Yes, some departments offer scholarships based on academic performance, research achievements, and financial need."
+        },
+        {
+            "question": "How can I access the department's academic advising services?",
+            "answer": "Academic advising services can be accessed by scheduling an appointment with the department advisor through the university's online portal."
+        },
+        {
+            "question": "What student organizations are affiliated with the Computer Science department?",
+            "answer": "The Computer Science department is affiliated with student organizations such as the Programming Club, the AI Society, and Women in Tech."
+        },
+        {
+            "question": "How can I find out about upcoming seminars and workshops in the Fine Arts department?",
+            "answer": "You can find information about upcoming seminars and workshops on the Fine Arts department's bulletin board and website."
+        },
+        {
+            "question": "Can I take courses from another department while majoring in Business Administration?",
+            "answer": "Yes, students majoring in Business Administration can take elective courses from other departments, subject to approval by the academic advisor."
+        },
+        {
+            "question": "How do I get involved in research projects in the Computer Science department?",
+            "answer": "You can get involved in research projects by reaching out to faculty members, attending department seminars, and applying for research assistant positions."
+        }
+    ],
+    "Graduation": [
+        {
+            "question": "What are the requirements for graduation?",
+            "answer": "Graduation requirements include the completion of all required courses, a minimum GPA, and the fulfillment of any program-specific criteria."
+        },
+        {
+            "question": "How do I apply for graduation?",
+            "answer": "You can apply for graduation by submitting a graduation application form through the student portal before the deadline."
+        },
+        {
+            "question": "When is the graduation ceremony held?",
+            "answer": "The graduation ceremony is typically held in May, with specific dates announced by the university closer to the event."
+        },
+        {
+            "question": "What is the process for ordering graduation caps and gowns?",
+            "answer": "Graduation caps and gowns can be ordered through the university's bookstore or online vendor, with details provided in the graduation packet."
+        },
+        {
+            "question": "Can I participate in the graduation ceremony if I have outstanding credits?",
+            "answer": "In some cases, students may be allowed to participate in the graduation ceremony with outstanding credits, subject to approval by the registrar's office."
+        },
+        {
+            "question": "How do I request my official transcripts after graduation?",
+            "answer": "Official transcripts can be requested through the university's online transcript request system, usually for a small fee."
+        },
+        {
+            "question": "Are there any fees associated with graduation?",
+            "answer": "Yes, there is typically a graduation fee that covers the cost of the ceremony, diploma, and other administrative expenses."
+        },
+        {
+            "question": "What is the deadline for submitting a thesis or dissertation for graduation?",
+            "answer": "The deadline for submitting a thesis or dissertation varies by program, but it is generally several weeks before the graduation date."
+        },
+        {
+            "question": "How can I join the alumni association after graduation?",
+            "answer": "Graduates can join the alumni association by signing up through the alumni office's website and paying any associated membership fees."
+        }
+    ],
+    "Library": [
+        {
+            "question": "What are the library's hours of operation?",
+            "answer": "The library is open from 8:00 AM to 10:00 PM on weekdays and 10:00 AM to 6:00 PM on weekends."
+        },
+        {
+            "question": "How can I access online journals and databases?",
+            "answer": "Online journals and databases can be accessed through the library's website using your university credentials."
+        },
+        {
+            "question": "Can I borrow books from other universities through the library?",
+            "answer": "Yes, the library offers an interlibrary loan service that allows you to borrow books from other universities."
+        },
+        {
+            "question": "What study spaces are available in the library?",
+            "answer": "The library offers various study spaces, including quiet study areas, group study rooms, and computer labs."
+        },
+        {
+            "question": "How can I reserve a study room in the library?",
+            "answer": "Study rooms can be reserved through the library's online reservation system, typically for a maximum of two hours at a time."
+        },
+        {
+            "question": "What resources are available for research assistance?",
+            "answer": "The library provides research assistance through one-on-one consultations with librarians, research guides, and online tutorials."
+        },
+        {
+            "question": "How can I renew a borrowed book?",
+            "answer": "Books can be renewed online through the library's catalog system or in person at the circulation desk."
+        },
+        {
+            "question": "Are there any fines for overdue books?",
+            "answer": "Yes, overdue books are subject to daily fines, which vary depending on the type of material borrowed."
+        },
+        {
+            "question": "Can I access the library's resources off-campus?",
+            "answer": "Yes, you can access the library's resources off-campus by logging in with your university credentials."
+        },
+        {
+            "question": "ما هي ساعات العمل في مكتبة الجامعة؟",
+            "answer": "مكتبة الجامعة تعمل من الساعة 8 صباحًا حتى الساعة 10 مساءً."
+        },
+        {
+            "question": "كيف يمكنني إعادة تعيين كلمة مرور البريد الإلكتروني الجامعي؟",
+            "answer": "يمكنك إعادة تعيين كلمة مرور البريد الإلكتروني من خلال البوابة الإلكترونية للجامعة."
+        },
+        {
+            "question": "أين يمكنني العثور على التقويم الأكاديمي لهذا الفصل الدراسي؟",
+            "answer": "يمكنك العثور على التقويم الأكاديمي من خلال موقع الجامعة الإلكتروني."
+        },
+        {
+            "question": "ما هي المتطلبات المسبقة للتسجيل في مادة الذكاء الاصطناعي 101؟",
+            "answer": "المتطلبات المسبقة للتسجيل في مادة الذكاء الاصطناعي 101 تشمل إكمال مادة البرمجة 101."
+        },
+        {
+            "question": "كيف يمكنني الاتصال بمكتب القبول؟",
+            "answer": "يمكنك الاتصال بمكتب القبول عبر الرقم المخصص أو البريد الإلكتروني المتاح على موقع الجامعة."
+        },
+        {
+            "question": "ما هو الموعد النهائي لتسجيل المواد؟",
+            "answer": "الموعد النهائي لتسجيل المواد هو 15 سبتمبر."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على منحة دراسية؟",
+            "answer": "يمكنك التقديم للحصول على منحة دراسية من خلال تعبئة النموذج الإلكتروني على موقع الجامعة."
+        },
+        {
+            "question": "ما هي متطلبات التخرج لدرجة البكالوريوس في الذكاء الاصطناعي؟",
+            "answer": "متطلبات التخرج تشمل إكمال 120 ساعة معتمدة مع معدل لا يقل عن 2.5."
+        },
+        {
+            "question": "أين تقع مكتبة الجامعة؟",
+            "answer": "مكتبة الجامعة تقع في الطابق الأول من المبنى الرئيسي."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى المجلات الإلكترونية من خلال مكتبة الجامعة؟",
+            "answer": "يمكنك الوصول إلى المجلات الإلكترونية من خلال تسجيل الدخول إلى البوابة الإلكترونية للمكتبة."
+        },
+        {
+            "question": "ما هي فرص العمل المتاحة للطلاب في الحرم الجامعي؟",
+            "answer": "يمكنك العثور على فرص العمل المتاحة للطلاب من خلال مكتب التوظيف الطلابي."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى نادٍ طلابي أو منظمة؟",
+            "answer": "يمكنك الانضمام إلى نادٍ طلابي أو منظمة من خلال تعبئة النموذج الإلكتروني المتاح على موقع الجامعة."
+        },
+        {
+            "question": "أين يمكنني العثور على دليل الطالب؟",
+            "answer": "يمكنك العثور على دليل الطالب على موقع الجامعة الإلكتروني في قسم الموارد."
+        },
+        {
+            "question": "ما هي الخطوات اللازمة لتغيير التخصص؟",
+            "answer": "لتغيير التخصص، يجب عليك تقديم طلب من خلال مكتب التسجيل واستشارة المرشد الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني إسقاط مادة؟",
+            "answer": "يمكنك إسقاط مادة من خلال تقديم طلب إسقاط المادة عبر البوابة الإلكترونية."
+        },
+        {
+            "question": "متى تبدأ الامتحانات النهائية؟",
+            "answer": "الامتحانات النهائية تبدأ في 10 ديسمبر."
+        },
+        {
+            "question": "كيف يمكنني طلب نسخة من سجلي الأكاديمي؟",
+            "answer": "يمكنك طلب نسخة من سجلك الأكاديمي عبر البوابة الإلكترونية."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للاستئناف على درجة؟",
+            "answer": "يمكنك تقديم طلب استئناف على درجة من خلال تعبئة النموذج المخصص وتقديمه لمكتب الشؤون الأكاديمية."
+        },
+        {
+            "question": "كيف يمكنني التسجيل في الدورات الصيفية؟",
+            "answer": "يمكنك التسجيل في الدورات الصيفية عبر البوابة الإلكترونية للجامعة."
+        },
+        {
+            "question": "ما هي الخدمات الصحية المتاحة للطلاب؟",
+            "answer": "الخدمات الصحية تشمل العيادة الطبية التي تقدم استشارات طبية وعلاجات أساسية."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على سكن داخل الحرم الجامعي؟",
+            "answer": "يمكنك التقديم للحصول على سكن داخل الحرم الجامعي عبر تعبئة النموذج الإلكتروني على موقع الجامعة."
+        },
+        {
+            "question": "ما هي خيارات الطعام المتاحة في الحرم الجامعي؟",
+            "answer": "خيارات الطعام تشمل الكافتيريا الرئيسية والمقاهي المنتشرة في الحرم الجامعي."
+        },
+        {
+            "question": "كيف يمكنني الحصول على تصريح وقوف السيارات؟",
+            "answer": "يمكنك الحصول على تصريح وقوف السيارات من خلال مكتب الأمن والسلامة داخل الحرم الجامعي."
+        },
+        {
+            "question": "ما هي ساعات عمل مركز اللياقة البدنية؟",
+            "answer": "مركز اللياقة البدنية مفتوح من الساعة 6 صباحًا حتى 10 مساءً."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في مشاريع البحث؟",
+            "answer": "يمكنك المشاركة في مشاريع البحث من خلال التواصل مع أساتذة القسم المعني."
+        },
+        {
+            "question": "أين يمكنني العثور على خدمات الدروس الخصوصية؟",
+            "answer": "يمكنك العثور على خدمات الدروس الخصوصية من خلال مكتب الدعم الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى مواد الدورة عبر الإنترنت؟",
+            "answer": "يمكنك الوصول إلى مواد الدورة عبر الإنترنت من خلال منصة التعلم الإلكتروني الخاصة بالجامعة."
+        },
+        {
+            "question": "ما هي سياسة النزاهة الأكاديمية؟",
+            "answer": "سياسة النزاهة الأكاديمية تتطلب من الطلاب الالتزام بالقواعد الأخلاقية وعدم الانخراط في الغش أو السرقات الأدبية."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى حكومة الطلاب؟",
+            "answer": "يمكنك الانضمام إلى حكومة الطلاب من خلال الترشح للانتخابات الطلابية أو التطوع في لجانها."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة الخاصة بجائحة كوفيد-19؟",
+            "answer": "إرشادات الجامعة تشمل الالتزام بارتداء الكمامات، التباعد الاجتماعي، وتقديم شهادات التطعيم."
+        },
+        {
+            "question": "كيف يمكنني الحصول على بطاقة الطالب؟",
+            "answer": "يمكنك الحصول على بطاقة الطالب من خلال مكتب الهوية الجامعية في الحرم الجامعي."
+        },
+        {
+            "question": "أين يمكنني العثور على معلومات حول برامج الدراسة في الخارج؟",
+            "answer": "يمكنك العثور على معلومات حول برامج الدراسة في الخارج عبر موقع مكتب العلاقات الدولية."
+        },
+        {
+            "question": "ما هي ساعات عمل المكتبة؟",
+            "answer": "المكتبة مفتوحة من الساعة 8 صباحًا حتى 10 مساءً."
+        },
+        {
+            "question": "كيف يمكنني تحديد موعد مع المرشد الأكاديمي؟",
+            "answer": "يمكنك تحديد موعد مع المرشد الأكاديمي عبر البوابة الإلكترونية أو الاتصال بالمكتب مباشرة."
+        },
+        {
+            "question": "أين يمكنني العثور على معلومات حول المساعدات المالية؟",
+            "answer": "يمكنك العثور على معلومات حول المساعدات المالية من خلال موقع مكتب الشؤون المالية."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب صيانة لغرفتي في السكن؟",
+            "answer": "يمكنك تقديم طلب صيانة لغرفتك من خلال مكتب الصيانة أو عبر البوابة الإلكترونية."
+        },
+        {
+            "question": "ما هو رقم الاتصال بالأمن الجامعي؟",
+            "answer": "رقم الاتصال بالأمن الجامعي هو 1234."
+        },
+        {
+            "question": "كيف يمكنني الإبلاغ عن حادثة داخل الحرم الجامعي؟",
+            "answer": "يمكنك الإبلاغ عن حادثة داخل الحرم الجامعي من خلال مكتب الأمن والسلامة أو عبر الهاتف."
+        },
+        {
+            "question": "ما هي الموارد المتاحة لدعم الصحة النفسية؟",
+            "answer": "الموارد المتاحة تشمل الاستشارات النفسية وجلسات الدعم الجماعي المقدمة من مركز الصحة النفسية."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في الرياضة الداخلية؟",
+            "answer": "يمكنك المشاركة في الرياضة الداخلية من خلال التسجيل في الفرق الرياضية عبر مكتب الأنشطة الطلابية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مختبرات الكمبيوتر في الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل الحفاظ على نظافة المكان، وعدم تثبيت برامج غير مصرح بها."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى الشبكة اللاسلكية للجامعة؟",
+            "answer": "يمكنك الوصول إلى الشبكة اللاسلكية عبر تسجيل الدخول باستخدام بيانات حساب الطالب."
+        },
+        {
+            "question": "ما هي إجراءات الحصول على تأشيرة طالب؟",
+            "answer": "إجراءات الحصول على تأشيرة طالب تشمل تقديم طلب التأشيرة من خلال السفارة المعنية وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "كيف يمكنني تحديث معلوماتي الشخصية على بوابة الطالب؟",
+            "answer": "يمكنك تحديث معلوماتك الشخصية عبر الدخول إلى بوابة الطالب وتعديل البيانات."
+        },
+        {
+            "question": "أين يمكنني العثور على معلومات حول حفلات التخرج؟",
+            "answer": "يمكنك العثور على معلومات حول حفلات التخرج من خلال مكتب التسجيل أو موقع الجامعة."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على وظيفة مساعد تدريس؟",
+            "answer": "يمكنك التقديم للحصول على وظيفة مساعد تدريس من خلال مكتب التوظيف الأكاديمي."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة لأخذ إجازة دراسية؟",
+            "answer": "يمكنك التقدم بطلب إجازة دراسية من خلال مكتب التسجيل واستشارة المرشد الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني طلب توصية من أستاذي؟",
+            "answer": "يمكنك طلب توصية من أستاذك عبر إرسال بريد إلكتروني مع طلبك وذكر الغرض من التوصية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مكتبة الجامعة؟",
+            "answer": "إرشادات استخدام المكتبة تشمل عدم التحدث بصوت مرتفع، الحفاظ على الهدوء، وإعادة الكتب إلى مكانها بعد الاستخدام."
+        },
+        {
+            "question": "كيف يمكنني التحقق من حالة طلبي؟",
+            "answer": "يمكنك التحقق من حالة طلبك عبر بوابة الطالب الإلكترونية في قسم المتابعة."
+        },
+        {
+            "question": "ما هي ساعات عمل المكتب الدولي؟",
+            "answer": "المكتب الدولي يعمل من الساعة 9 صباحًا حتى 5 مساءً."
+        },
+        {
+            "question": "كيف يمكنني حجز غرفة دراسة في المكتبة؟",
+            "answer": "يمكنك حجز غرفة دراسة في المكتبة عبر البوابة الإلكترونية للمكتبة أو زيارة المكتب الرئيسي."
+        },
+        {
+            "question": "ما هي السياسة الخاصة بالغياب عن الامتحانات؟",
+            "answer": "الغياب عن الامتحانات بدون عذر مقبول قد يؤدي إلى الرسوب في المادة. يُفضل التواصل مع أستاذ المادة في حالة الطوارئ."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى الدورات التدريبية عبر الإنترنت؟",
+            "answer": "يمكنك الوصول إلى الدورات التدريبية عبر الإنترنت من خلال منصة التعلم الإلكتروني الخاصة بالجامعة."
+        },
+        {
+            "question": "ما هي الخدمات التي يقدمها مركز دعم الكتابة؟",
+            "answer": "مركز دعم الكتابة يقدم استشارات لتحسين مهارات الكتابة الأكاديمية والمساعدة في تحرير المقالات والأبحاث."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في الأنشطة الطلابية؟",
+            "answer": "يمكنك المشاركة في الأنشطة الطلابية عبر التسجيل في النوادي الطلابية أو من خلال مكتب الأنشطة الطلابية."
+        },
+        {
+            "question": "ما هي خطوات تقديم طلب للاعتماد الأكاديمي؟",
+            "answer": "يمكنك تقديم طلب للاعتماد الأكاديمي من خلال زيارة مكتب التسجيل وتقديم الوثائق المطلوبة."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى بياناتي المالية؟",
+            "answer": "يمكنك الوصول إلى بياناتك المالية عبر بوابة الطالب الإلكترونية في قسم الشؤون المالية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مختبرات الحاسوب؟",
+            "answer": "إرشادات الاستخدام تشمل احترام حقوق الآخرين، عدم تثبيت برامج غير مصرح بها، والحفاظ على نظافة الأجهزة."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في برامج التبادل الطلابي؟",
+            "answer": "يمكنك المشاركة في برامج التبادل الطلابي من خلال التقديم عبر المكتب الدولي وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الامتحانات المكملة؟",
+            "answer": "يمكنك التقدم للامتحانات المكملة في حالة غيابك عن الامتحان الأصلي بسبب عذر مقبول، مثل الحالة الصحية."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى نتائج امتحاناتي؟",
+            "answer": "يمكنك الوصول إلى نتائج امتحاناتك عبر بوابة الطالب الإلكترونية في قسم النتائج."
+        },
+        {
+            "question": "ما هي الخدمات التي يقدمها مكتب الشؤون الأكاديمية؟",
+            "answer": "مكتب الشؤون الأكاديمية يقدم خدمات استشارية للطلاب، مثل اختيار المواد الدراسية وتوجيه الطلاب الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في الأبحاث الجامعية؟",
+            "answer": "يمكنك المشاركة في الأبحاث الجامعية عبر التواصل مع أساتذة القسم المعني والتقدم بمقترح بحثي."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة لتقديم طلب انسحاب من الجامعة؟",
+            "answer": "يمكنك تقديم طلب انسحاب من الجامعة من خلال مكتب التسجيل وتعبئة النموذج المخصص."
+        },
+        {
+            "question": "كيف يمكنني الحصول على خدمة الإرشاد الأكاديمي؟",
+            "answer": "يمكنك الحصول على خدمة الإرشاد الأكاديمي عبر حجز موعد مع المرشد الأكاديمي الخاص بك."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استرداد الرسوم الدراسية؟",
+            "answer": "يمكنك استرداد جزء من الرسوم الدراسية إذا قمت بالانسحاب من المواد الدراسية قبل الموعد النهائي المحدد."
+        },
+        {
+            "question": "كيف يمكنني تقديم شكوى بشأن الخدمات الجامعية؟",
+            "answer": "يمكنك تقديم شكوى بشأن الخدمات الجامعية عبر مكتب شؤون الطلاب أو من خلال البوابة الإلكترونية."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن التنقل بين الكليات؟",
+            "answer": "يمكنك التنقل بين الكليات بشرط تلبية المتطلبات الأكاديمية وتقديم طلب التغيير عبر مكتب التسجيل."
+        },
+        {
+            "question": "كيف يمكنني التحقق من جدولي الدراسي؟",
+            "answer": "يمكنك التحقق من جدولك الدراسي عبر بوابة الطالب الإلكترونية."
+        },
+        {
+            "question": "ما هي إجراءات تقديم طلب إعادة تصحيح الامتحان؟",
+            "answer": "يمكنك تقديم طلب إعادة تصحيح الامتحان عبر مكتب الشؤون الأكاديمية وتعبئة النموذج المخصص."
+        },
+        {
+            "question": "كيف يمكنني الحصول على الدعم الفني لخدمات الحوسبة؟",
+            "answer": "يمكنك الحصول على الدعم الفني لخدمات الحوسبة عبر مكتب تقنية المعلومات أو الاتصال بالخط الساخن للدعم الفني."
+        },
+        {
+            "question": "ما هي البرامج الدراسية التي تقدمها الجامعة؟",
+            "answer": "يمكنك العثور على قائمة البرامج الدراسية التي تقدمها الجامعة عبر موقع الجامعة الإلكتروني."
+        },
+        {
+            "question": "كيف يمكنني التسجيل في الدورات التدريبية الإضافية؟",
+            "answer": "يمكنك التسجيل في الدورات التدريبية الإضافية عبر بوابة الطالب الإلكترونية في قسم التدريب."
+        },
+        {
+            "question": "ما هي الخطوات اللازمة للحصول على إذن دخول خاص؟",
+            "answer": "يمكنك الحصول على إذن دخول خاص عبر مكتب الأمن والسلامة الجامعي."
+        },
+        {
+            "question": "كيف يمكنني الاستفادة من خدمات التوظيف الطلابي؟",
+            "answer": "يمكنك الاستفادة من خدمات التوظيف الطلابي عبر مكتب التوظيف الذي يوفر فرص العمل داخل وخارج الجامعة."
+        },
+        {
+            "question": "ما هي إجراءات طلب الاستثناء من متطلبات التخرج؟",
+            "answer": "يمكنك تقديم طلب الاستثناء من متطلبات التخرج عبر مكتب الشؤون الأكاديمية بشرط توافر شروط الاستثناء."
+        },
+        {
+            "question": "كيف يمكنني الحصول على دعم مالي للطباعة؟",
+            "answer": "يمكنك الحصول على دعم مالي للطباعة من خلال تقديم طلب عبر مكتب الخدمات الطلابية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المكتبة الرقمية؟",
+            "answer": "إرشادات استخدام المكتبة الرقمية تشمل عدم مشاركة حسابك مع الآخرين والحفاظ على سرية معلوماتك."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على وظيفة داخل الحرم الجامعي؟",
+            "answer": "يمكنك التقديم للحصول على وظيفة داخل الحرم الجامعي عبر مكتب التوظيف الطلابي وتقديم سيرتك الذاتية."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الغياب؟",
+            "answer": "سياسة الجامعة بشأن الغياب تتطلب حضور ما لا يقل عن 75% من الدروس للحصول على الدرجة."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى الخدمات الطبية في الجامعة؟",
+            "answer": "يمكنك الوصول إلى الخدمات الطبية عبر زيارة العيادة الطبية في الحرم الجامعي."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة لتحويل الدرجات من جامعة أخرى؟",
+            "answer": "يمكنك تحويل الدرجات من جامعة أخرى عبر تقديم طلب التحويل عبر مكتب التسجيل وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "كيف يمكنني المشاركة في النوادي الطلابية؟",
+            "answer": "يمكنك المشاركة في النوادي الطلابية عبر التسجيل في النادي المناسب لك من خلال مكتب الأنشطة الطلابية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام القاعات الدراسية؟",
+            "answer": "إرشادات استخدام القاعات الدراسية تشمل الحفاظ على نظافة القاعات وعدم التسبب في إزعاج للآخرين."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على دعم مالي للكتب الدراسية؟",
+            "answer": "يمكنك التقديم للحصول على دعم مالي للكتب الدراسية عبر مكتب الخدمات الطلابية."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الامتحانات النهائية؟",
+            "answer": "سياسة الجامعة بشأن الامتحانات النهائية تتطلب الحضور الشخصي وإحضار البطاقة الجامعية."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى منصة التعلم الإلكتروني؟",
+            "answer": "يمكنك الوصول إلى منصة التعلم الإلكتروني عبر الدخول إلى موقع الجامعة واستخدام بيانات حسابك الجامعي."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المختبرات العلمية؟",
+            "answer": "إرشادات استخدام المختبرات العلمية تشمل ارتداء الملابس الواقية، اتباع إرشادات السلامة، وعدم تناول الطعام أو الشراب داخل المختبر."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب تغيير المشرف الأكاديمي؟",
+            "answer": "يمكنك تقديم طلب تغيير المشرف الأكاديمي عبر مكتب الشؤون الأكاديمية وتعبئة النموذج المخصص."
+        },
+        {
+            "question": "ما هي ساعات عمل مركز الخدمات الطلابية؟",
+            "answer": "مركز الخدمات الطلابية يعمل من الساعة 9 صباحًا حتى 5 مساءً."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى برنامج التدريب العملي؟",
+            "answer": "يمكنك الانضمام إلى برنامج التدريب العملي عبر التسجيل في مكتب التوظيف الطلابي وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استخدام الأجهزة الإلكترونية في القاعات الدراسية؟",
+            "answer": "سياسة الجامعة تسمح باستخدام الأجهزة الإلكترونية في القاعات الدراسية بشرط عدم التسبب في إزعاج للآخرين."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على نسخة من الدرجات الأكاديمية؟",
+            "answer": "يمكنك تقديم طلب للحصول على نسخة من الدرجات الأكاديمية عبر بوابة الطالب الإلكترونية أو زيارة مكتب التسجيل."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المكتبة الرقمية؟",
+            "answer": "إرشادات استخدام المكتبة الرقمية تشمل عدم مشاركة بيانات الدخول مع الآخرين واستخدام الموارد لأغراض أكاديمية فقط."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى مواد الدروس المسجلة؟",
+            "answer": "يمكنك الوصول إلى مواد الدروس المسجلة عبر منصة التعلم الإلكتروني الخاصة بالجامعة."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على تصريح استخدام قاعات الأنشطة؟",
+            "answer": "يمكنك الحصول على تصريح استخدام قاعات الأنشطة عبر مكتب الأنشطة الطلابية وتعبئة النموذج المخصص."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على دعم مالي للبحث العلمي؟",
+            "answer": "يمكنك تقديم طلب للحصول على دعم مالي للبحث العلمي عبر مكتب البحث العلمي في الجامعة."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن التظلمات الأكاديمية؟",
+            "answer": "سياسة الجامعة تتيح للطلاب تقديم تظلمات أكاديمية من خلال تعبئة نموذج التظلم وتقديمه لمكتب الشؤون الأكاديمية."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على إعفاء من الرسوم الدراسية؟",
+            "answer": "يمكنك تقديم طلب للحصول على إعفاء من الرسوم الدراسية عبر مكتب الشؤون المالية وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام الخدمات الصحية في الجامعة؟",
+            "answer": "إرشادات استخدام الخدمات الصحية تشمل حجز المواعيد مسبقًا والالتزام بإرشادات الأطباء داخل العيادة."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى برنامج التبادل الثقافي؟",
+            "answer": "يمكنك الانضمام إلى برنامج التبادل الثقافي عبر التقديم في مكتب العلاقات الدولية وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استخدام الشبكة اللاسلكية؟",
+            "answer": "سياسة الجامعة تتطلب من الطلاب استخدام الشبكة اللاسلكية للأغراض الأكاديمية فقط وعدم مشاركة بيانات الدخول مع الآخرين."
+        },
+        {
+            "question": "كيف يمكنني الحصول على استشارة مهنية؟",
+            "answer": "يمكنك الحصول على استشارة مهنية عبر مكتب التوظيف الطلابي أو التواصل مع المرشد المهني في الجامعة."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للتسجيل في برنامج الدراسات العليا؟",
+            "answer": "يمكنك التسجيل في برنامج الدراسات العليا عبر مكتب القبول وتوفير المستندات الأكاديمية المطلوبة."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على منحة دراسية دولية؟",
+            "answer": "يمكنك تقديم طلب للحصول على منحة دراسية دولية عبر مكتب العلاقات الدولية في الجامعة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المكتبة في الحرم الجامعي؟",
+            "answer": "إرشادات استخدام المكتبة تشمل الحفاظ على الهدوء وإعادة الكتب إلى أماكنها بعد الاستخدام."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى قاعدة بيانات الأبحاث الأكاديمية؟",
+            "answer": "يمكنك الوصول إلى قاعدة بيانات الأبحاث الأكاديمية عبر بوابة المكتبة الرقمية باستخدام حسابك الجامعي."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة لتحويل المواد الدراسية من جامعة أخرى؟",
+            "answer": "يمكنك تحويل المواد الدراسية من جامعة أخرى عبر تقديم طلب التحويل وتوفير المستندات اللازمة لمكتب التسجيل."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى فريق البحث في الجامعة؟",
+            "answer": "يمكنك الانضمام إلى فريق البحث عبر التواصل مع أساتذة القسم المعني وتقديم طلب المشاركة."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الغياب المتكرر؟",
+            "answer": "سياسة الجامعة تنص على أنه في حالة الغياب المتكرر بدون عذر مقبول، قد يتم حرمان الطالب من الامتحانات النهائية."
+        },
+        {
+            "question": "كيف يمكنني الحصول على دعم مالي للمشاركة في المؤتمرات الأكاديمية؟",
+            "answer": "يمكنك الحصول على دعم مالي للمشاركة في المؤتمرات الأكاديمية عبر مكتب البحث العلمي في الجامعة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المرافق الرياضية في الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل الالتزام بمواعيد الفتح والإغلاق، واحترام القوانين الداخلية للمرافق الرياضية."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى برنامج التدريب الصيفي؟",
+            "answer": "يمكنك الانضمام إلى برنامج التدريب الصيفي عبر التسجيل في مكتب التوظيف الطلابي وتوفير السيرة الذاتية."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الامتحانات الاستدراكية؟",
+            "answer": "سياسة الجامعة تتيح للطلاب التقدم للامتحانات الاستدراكية في حالة الغياب بعذر مقبول عن الامتحان الأصلي."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على بطاقة المكتبة؟",
+            "answer": "يمكنك تقديم طلب للحصول على بطاقة المكتبة عبر مكتب التسجيل وتوفير المستندات المطلوبة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام الموارد الإلكترونية في الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل عدم استخدام الموارد الإلكترونية لأغراض تجارية أو شخصية، والالتزام بحقوق الملكية الفكرية."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى جمعية الخريجين؟",
+            "answer": "يمكنك الانضمام إلى جمعية الخريجين عبر التسجيل في مكتب العلاقات العامة أو عبر موقع الجمعية على الإنترنت."
+        },
+        {
+            "question": "ما هي إجراءات التقديم لبرنامج الزمالة الأكاديمية؟",
+            "answer": "يمكنك التقديم لبرنامج الزمالة الأكاديمية عبر مكتب البحث العلمي وتقديم السيرة الذاتية والمقترح البحثي."
+        },
+        {
+            "question": "كيف يمكنني الحصول على مساعدة في كتابة الأطروحة؟",
+            "answer": "يمكنك الحصول على مساعدة في كتابة الأطروحة عبر مكتب دعم الكتابة أو التواصل مع المشرف الأكاديمي."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الانسحاب من المواد الدراسية؟",
+            "answer": "سياسة الجامعة تتيح للطلاب الانسحاب من المواد الدراسية قبل الموعد النهائي المحدد بدون التأثير على المعدل الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى خدمات الدعم النفسي في الجامعة؟",
+            "answer": "يمكنك الوصول إلى خدمات الدعم النفسي عبر مكتب الدعم النفسي أو حجز موعد مع المستشار النفسي في الجامعة."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على إذن خاص بإقامة فعالية في الحرم الجامعي؟",
+            "answer": "يمكنك الحصول على إذن خاص بإقامة فعالية في الحرم الجامعي عبر مكتب الأنشطة الطلابية وتقديم طلب الفعالية."
+        },
+        {
+            "question": "كيف يمكنني التقديم لبرنامج الدراسات العليا في الجامعة؟",
+            "answer": "يمكنك التقديم لبرنامج الدراسات العليا عبر مكتب القبول وتقديم المستندات المطلوبة مثل السجل الأكاديمي والشهادات."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مرافق الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل الحفاظ على نظافة المرافق، احترام القوانين الداخلية، وعدم التسبب في إزعاج للآخرين."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على تصريح بحث؟",
+            "answer": "يمكنك تقديم طلب للحصول على تصريح بحث عبر مكتب البحث العلمي وتعبئة النموذج المخصص لذلك."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن تقديم الشكاوى؟",
+            "answer": "يمكن للطلاب تقديم الشكاوى عبر مكتب شؤون الطلاب أو من خلال البوابة الإلكترونية المخصصة لتقديم الشكاوى."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى الدورات التدريبية المقدمة عبر الإنترنت؟",
+            "answer": "يمكنك الوصول إلى الدورات التدريبية المقدمة عبر الإنترنت من خلال منصة التعلم الإلكتروني الخاصة بالجامعة."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة الخاصة باللباس داخل الحرم الجامعي؟",
+            "answer": "إرشادات الجامعة تنص على ضرورة ارتداء ملابس مناسبة تحترم تقاليد وقيم المجتمع الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني الحصول على خدمة الإرشاد الأكاديمي؟",
+            "answer": "يمكنك الحصول على خدمة الإرشاد الأكاديمي عبر حجز موعد مع مرشدك الأكاديمي من خلال بوابة الطالب الإلكترونية."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على بطاقة جامعية جديدة في حالة الفقدان؟",
+            "answer": "في حالة فقدان البطاقة الجامعية، يمكنك التقدم بطلب للحصول على بطاقة جديدة عبر مكتب التسجيل وتقديم بلاغ الفقدان."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على إذن خاص بالتصوير داخل الحرم الجامعي؟",
+            "answer": "يمكنك الحصول على إذن خاص بالتصوير داخل الحرم الجامعي عبر تقديم طلب لمكتب العلاقات العامة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مكتبة الجامعة الرقمية؟",
+            "answer": "إرشادات الاستخدام تشمل احترام حقوق الملكية الفكرية وعدم مشاركة بيانات الدخول مع الآخرين."
+        },
+        {
+            "question": "كيف يمكنني الاستفادة من خدمات المكتبة في الأبحاث العلمية؟",
+            "answer": "يمكنك الاستفادة من خدمات المكتبة في الأبحاث العلمية عبر الوصول إلى قواعد البيانات الأكاديمية المتاحة من خلال المكتبة."
+        },
+        {
+            "question": "ما هي إرشادات استخدام مختبرات الحاسوب في الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل عدم تثبيت برامج غير مصرح بها، والالتزام بإرشادات الاستخدام الخاصة بالمختبرات."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى مجموعات الدراسة الجماعية؟",
+            "answer": "يمكنك الانضمام إلى مجموعات الدراسة الجماعية عبر التواصل مع مكتب الدعم الأكاديمي أو عبر بوابة الطالب الإلكترونية."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة الخاصة بالتدخين داخل الحرم الجامعي؟",
+            "answer": "الجامعة تمنع التدخين داخل جميع المباني الأكاديمية وتخصص مناطق معينة للتدخين في الهواء الطلق."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على منحة بحثية؟",
+            "answer": "يمكنك تقديم طلب للحصول على منحة بحثية عبر مكتب البحث العلمي وتقديم المقترح البحثي المطلوب."
+        },
+        {
+            "question": "ما هي إرشادات استخدام قاعات المحاضرات؟",
+            "answer": "إرشادات الاستخدام تشمل الحفاظ على النظافة وعدم تناول الطعام أو الشراب داخل قاعات المحاضرات."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على تصريح باستخدام معدات الجامعة؟",
+            "answer": "يمكنك تقديم طلب للحصول على تصريح باستخدام معدات الجامعة عبر مكتب الشؤون الأكاديمية أو مكتب المختبرات."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استخدام وسائل التواصل الاجتماعي في الفصول الدراسية؟",
+            "answer": "سياسة الجامعة تشدد على ضرورة استخدام وسائل التواصل الاجتماعي فقط لأغراض أكاديمية وعدم التسبب في إزعاج خلال الدروس."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى برامج التطوع داخل الجامعة؟",
+            "answer": "يمكنك الانضمام إلى برامج التطوع عبر مكتب الأنشطة الطلابية أو عبر التسجيل في بوابة التطوع الإلكترونية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام الصالات الرياضية في الجامعة؟",
+            "answer": "إرشادات الاستخدام تشمل الالتزام بمواعيد الفتح والإغلاق، واحترام خصوصية الآخرين، وارتداء الملابس الرياضية المناسبة."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على وظيفة داخل الجامعة؟",
+            "answer": "يمكنك التقديم للحصول على وظيفة داخل الجامعة عبر مكتب التوظيف الطلابي وتقديم السيرة الذاتية عبر البوابة الإلكترونية."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على تصريح إقامة نشاط طلابي؟",
+            "answer": "يمكنك الحصول على تصريح إقامة نشاط طلابي عبر مكتب الأنشطة الطلابية وتعبئة النموذج المخصص لذلك."
+        },
+        {
+            "question": "كيف يمكنني الاستفادة من خدمات الدعم الفني لتقنية المعلومات؟",
+            "answer": "يمكنك الاستفادة من خدمات الدعم الفني عبر مكتب تقنية المعلومات أو الاتصال بخط الدعم المخصص."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استخدام الهواتف المحمولة في الفصول الدراسية؟",
+            "answer": "سياسة الجامعة تشدد على ضرورة وضع الهواتف المحمولة في وضع الصامت وعدم استخدامها أثناء المحاضرات إلا بإذن من الأستاذ."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى مصادر التعليم الإلكتروني؟",
+            "answer": "يمكنك الوصول إلى مصادر التعليم الإلكتروني عبر منصة التعلم الإلكتروني الخاصة بالجامعة باستخدام حسابك الجامعي."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على توصية أكاديمية؟",
+            "answer": "يمكنك الحصول على توصية أكاديمية عبر التواصل مع الأستاذ المعني وتقديم طلب رسمي مكتوب."
+        },
+        {
+            "question": "كيف يمكنني الحصول على خدمات الإرشاد النفسي؟",
+            "answer": "يمكنك الحصول على خدمات الإرشاد النفسي عبر حجز موعد مع المستشار النفسي في مكتب الدعم النفسي."
+        },
+        {
+            "question": "ما هي إرشادات استخدام قاعات الدراسة الذاتية؟",
+            "answer": "إرشادات الاستخدام تشمل الحفاظ على الهدوء، احترام الآخرين، وعدم حجز الأماكن لأغراض شخصية."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى برامج التدريب المهني؟",
+            "answer": "يمكنك الانضمام إلى برامج التدريب المهني عبر التسجيل في مكتب التوظيف الطلابي وتقديم الطلب المطلوب."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة الخاصة بالتعامل مع المواد الخطرة في المختبرات؟",
+            "answer": "إرشادات الجامعة تشمل استخدام الأدوات الواقية، اتباع بروتوكولات السلامة، والتعامل مع المواد الخطرة بحذر وفق التعليمات."
+        },
+        {
+            "question": "كيف يمكنني التقديم لبرنامج الدراسات العليا؟",
+            "answer": "يمكنك التقديم لبرنامج الدراسات العليا عبر مكتب القبول وتقديم المستندات الأكاديمية المطلوبة مثل الشهادات والسجل الأكاديمي."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن الغش في الامتحانات؟",
+            "answer": "سياسة الجامعة تنص على فرض عقوبات صارمة على حالات الغش في الامتحانات، والتي قد تشمل الفصل الأكاديمي."
+        },
+        {
+            "question": "كيف يمكنني الحصول على تصريح باستخدام المرافق الرياضية في الجامعة؟",
+            "answer": "يمكنك الحصول على تصريح باستخدام المرافق الرياضية عبر مكتب الأنشطة الرياضية وتعبئة النموذج المطلوب."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة بشأن استخدام الإنترنت داخل الحرم الجامعي؟",
+            "answer": "إرشادات الجامعة تشمل استخدام الإنترنت فقط لأغراض أكاديمية وعدم الوصول إلى مواقع غير لائقة أو تحميل محتويات غير قانونية."
+        },
+        {
+            "question": "كيف يمكنني الانضمام إلى نادي رياضي داخل الجامعة؟",
+            "answer": "يمكنك الانضمام إلى نادي رياضي داخل الجامعة عبر التسجيل في مكتب الأنشطة الرياضية ودفع الرسوم المطلوبة إن وجدت."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة لتحويل الدرجات من جامعة أخرى؟",
+            "answer": "يمكنك تحويل الدرجات من جامعة أخرى عبر تقديم طلب التحويل عبر مكتب التسجيل وتوفير المستندات الأكاديمية المطلوبة."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على منحة دراسية داخل الجامعة؟",
+            "answer": "يمكنك التقديم للحصول على منحة دراسية داخل الجامعة عبر مكتب الشؤون المالية وتعبئة النموذج الإلكتروني المطلوب."
+        },
+        {
+            "question": "ما هي إرشادات الجامعة بشأن الامتحانات النهائية؟",
+            "answer": "إرشادات الجامعة بشأن الامتحانات النهائية تشمل الحضور في الوقت المحدد، إحضار البطاقة الجامعية، وعدم استخدام الوسائل الإلكترونية بدون إذن."
+        },
+        {
+            "question": "كيف يمكنني الحصول على مساعدة في اختيار التخصص الدراسي؟",
+            "answer": "يمكنك الحصول على مساعدة في اختيار التخصص الدراسي عبر حجز موعد مع المرشد الأكاديمي الخاص بك."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على استثناء من متطلبات التخرج؟",
+            "answer": "يمكنك الحصول على استثناء من متطلبات التخرج عبر تقديم طلب رسمي لمكتب الشؤون الأكاديمية وتقديم المبررات اللازمة."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على نسخة من شهادة التخرج؟",
+            "answer": "يمكنك تقديم طلب للحصول على نسخة من شهادة التخرج عبر مكتب التسجيل أو عبر بوابة الطالب الإلكترونية."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن التأخير في تقديم الواجبات الدراسية؟",
+            "answer": "سياسة الجامعة بشأن التأخير في تقديم الواجبات الدراسية تختلف من مادة إلى أخرى، ويجب عليك التحقق من إرشادات المادة المحددة أو التواصل مع أستاذ المادة."
+        },
+        {
+            "question": "كيف يمكنني الوصول إلى السجل الأكاديمي الخاص بي؟",
+            "answer": "يمكنك الوصول إلى السجل الأكاديمي الخاص بك عبر بوابة الطالب الإلكترونية في قسم السجلات الأكاديمية."
+        },
+        {
+            "question": "ما هي إرشادات استخدام المكتبة العامة في الجامعة؟",
+            "answer": "إرشادات استخدام المكتبة العامة تشمل الالتزام بالهدوء، إعادة الكتب إلى مكانها بعد الاستخدام، وعدم تناول الطعام أو الشراب داخل المكتبة."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب للحصول على إذن غياب؟",
+            "answer": "يمكنك تقديم طلب للحصول على إذن غياب عبر مكتب الشؤون الأكاديمية أو من خلال بوابة الطالب الإلكترونية."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للتسجيل في دورات تعليمية إضافية؟",
+            "answer": "يمكنك التسجيل في دورات تعليمية إضافية عبر بوابة الطالب الإلكترونية أو من خلال مكتب التسجيل."
+        },
+        {
+            "question": "كيف يمكنني الاستفادة من خدمات مركز الإرشاد المهني؟",
+            "answer": "يمكنك الاستفادة من خدمات مركز الإرشاد المهني عبر حجز موعد مع المرشد المهني أو المشاركة في ورش العمل التي يقدمها المركز."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن استخدام المكتبة الرقمية خارج الحرم الجامعي؟",
+            "answer": "سياسة الجامعة تتيح للطلاب استخدام المكتبة الرقمية خارج الحرم الجامعي بشرط تسجيل الدخول باستخدام بيانات الحساب الجامعي."
+        },
+        {
+            "question": "كيف يمكنني التقديم للحصول على برنامج تدريبي داخل الجامعة؟",
+            "answer": "يمكنك التقديم للحصول على برنامج تدريبي داخل الجامعة عبر مكتب التوظيف الطلابي أو عبر بوابة التدريب الإلكتروني."
+        },
+        {
+            "question": "ما هي الإجراءات اللازمة للحصول على إذن خاص بتنظيم ورشة عمل؟",
+            "answer": "يمكنك الحصول على إذن خاص بتنظيم ورشة عمل عبر مكتب الأنشطة الطلابية وتقديم طلب يتضمن تفاصيل الورشة."
+        },
+        {
+            "question": "كيف يمكنني تقديم طلب لاستعارة معدات من الجامعة؟",
+            "answer": "يمكنك تقديم طلب لاستعارة معدات من الجامعة عبر مكتب المختبرات أو المكتب المعني بتلك المعدات."
+        },
+        {
+            "question": "ما هي سياسة الجامعة بشأن تأجيل الامتحانات؟",
+            "answer": "سياسة الجامعة تتيح تأجيل الامتحانات في حالات الطوارئ بشرط تقديم مستندات تثبت السبب، ويجب تقديم الطلب لمكتب الشؤون الأكاديمية."
+        },
+        {
+            "question": "What services does the learning disability center offer?",
+            "answer": "The learning disability center offers accommodations, specialized tutoring, and assistive technology to support students with learning disabilities."
+        },
+        {
+            "question": "How can I access past exam papers for practice?",
+            "answer": "Past exam papers are available through the library's online database or can be requested from your academic department."
+        },
+        {
+            "question": "What is the process for appealing a grade?",
+            "answer": "To appeal a grade, you must submit a formal request to the academic department, outlining your reasons and providing any supporting evidence."
+        },
+        {
+            "question": "How can I improve my time management skills?",
+            "answer": "The academic support center offers workshops and one-on-one coaching sessions on time management and effective study habits."
+        },
+        {
+            "question": "What academic advising services are available?",
+            "answer": "Academic advising services include course selection guidance, career planning, and help with meeting graduation requirements."
+        },
+        {
+            "question": "How do I access online academic resources?",
+            "answer": "You can access online academic resources through the university's learning management system (LMS) and library databases."
+        },
+        {
+            "question": "Where can I find information about study abroad programs?",
+            "answer": "Information about study abroad programs is available at the international office or on the university's study abroad webpage."
+        },
+        {
+            "question": "How can I prepare for final exams?",
+            "answer": "The academic support center offers review sessions, study guides, and practice exams to help you prepare for finals."
+        },
+        {
+            "question": "What are the requirements for making the Dean's List?",
+            "answer": "To make the Dean's List, you typically need to achieve a high GPA, often 3.5 or above, while carrying a full course load."
+        },
+        {
+            "question": "How can I find a mentor in my field of study?",
+            "answer": "You can find a mentor through the university's mentoring program, your academic department, or professional student organizations."
+        }
+    ],
+    "Technology Support": [
+        {
+            "question": "How do I set up my university email account?",
+            "answer": "Instructions for setting up your university email account can be found on the IT services webpage or by contacting the helpdesk."
+        },
+        {
+            "question": "Where can I get help with technical issues?",
+            "answer": "You can get help with technical issues by contacting the IT helpdesk or visiting the technology support center on campus."
+        },
+        {
+            "question": "How do I reset my password?",
+            "answer": "You can reset your password online through the university's account management portal or by contacting the IT helpdesk."
+        },
+        {
+            "question": "What software is available for students?",
+            "answer": "The university offers a range of software for students, including Microsoft Office, Adobe Creative Cloud, and specialized academic software."
+        },
+        {
+            "question": "How do I connect to the campus Wi-Fi?",
+            "answer": "You can connect to the campus Wi-Fi by selecting the university network and logging in with your student credentials."
+        },
+        {
+            "question": "Where can I access computer labs on campus?",
+            "answer": "Computer labs are available in the library, student center, and specific academic buildings. Check the campus map for locations."
+        },
+        {
+            "question": "How do I access my online courses?",
+            "answer": "You can access your online courses through the university's learning management system (LMS) using your student login."
+        },
+        {
+            "question": "What are the printing options available on campus?",
+            "answer": "Printing options include various printers located in the library, computer labs, and student centers. Printing can be paid for with your student ID."
+        },
+        {
+            "question": "How do I submit assignments online?",
+            "answer": "Assignments can be submitted online through the learning management system (LMS) by uploading your documents to the relevant course."
+        },
+        {
+            "question": "What should I do if I can't access my student portal?",
+            "answer": "If you can't access your student portal, try resetting your password or contact the IT helpdesk for assistance."
+        }
+    ],
+    "Career Services": [
+        {
+            "question": "How can I schedule an appointment with a career counselor?",
+            "answer": "You can schedule an appointment with a career counselor through the career center's online booking system or by calling the office."
+        },
+        {
+            "question": "What resources are available for job searching?",
+            "answer": "Resources for job searching include resume reviews, job boards, career fairs, and networking events hosted by the career center."
+        },
+        {
+            "question": "How can I prepare for job interviews?",
+            "answer": "The career center offers mock interviews, interview workshops, and one-on-one coaching to help you prepare for job interviews."
+        },
+        {
+            "question": "Where can I find internships related to my major?",
+            "answer": "Internships related to your major can be found through the career center's job board, your academic department, or by networking with alumni."
+        },
+        {
+            "question": "What services does the career center offer for graduate students?",
+            "answer": "The career center offers specialized services for graduate students, including career counseling, job placement assistance, and networking opportunities."
+        },
+        {
+            "question": "How do I create a professional LinkedIn profile?",
+            "answer": "The career center offers workshops and one-on-one assistance to help you create a professional LinkedIn profile that highlights your skills and experience."
+        },
+        {
+            "question": "What is the process for applying to graduate school?",
+            "answer": "The career center provides guidance on applying to graduate school, including help with selecting programs, writing personal statements, and preparing for entrance exams."
+        },
+        {
+            "question": "How can I find part-time jobs on campus?",
+            "answer": "Part-time jobs on campus can be found through the university's student employment office or job board."
+        },
+        {
+            "question": "What networking opportunities are available for students?",
+            "answer": "Networking opportunities include career fairs, alumni events, industry meetups, and student professional organizations."
+        },
+        {
+            "question": "How can I get help with my resume and cover letter?",
+            "answer": "The career center offers resume and cover letter reviews, as well as workshops on how to craft effective application materials."
+        }
+    ],
+    "General University Information": [
+        {
+            "question": "Where can I find the academic calendar?",
+            "answer": "The academic calendar is available on the university's website under the registrar's office or academic affairs section."
+        },
+        {
+            "question": "What is the university's policy on academic integrity?",
+            "answer": "The university's academic integrity policy prohibits cheating, plagiarism, and other forms of academic dishonesty. Violations can result in disciplinary action."
+        },
+        {
+            "question": "How do I request my academic transcripts?",
+            "answer": "You can request your academic transcripts through the registrar's office by submitting a request form online or in person."
+        },
+        {
+            "question": "What are the university's grading policies?",
+            "answer": "The university's grading policies include letter grades from A to F, with corresponding grade point values. Specific policies on grade appeals, incomplete grades, and pass/fail options are detailed in the student handbook."
+        },
+        {
+            "question": "How do I declare or change my major?",
+            "answer": "You can declare or change your major by submitting a request through the academic advising office or the student portal."
+        },
+        {
+            "question": "What is the process for withdrawing from a course?",
+            "answer": "To withdraw from a course, you must submit a withdrawal request through the student portal before the deadline specified in the academic calendar."
+        },
+        {
+            "question": "Where can I find campus maps?",
+            "answer": "Campus maps are available on the university's website, at the information desk in the student center, and on the campus app."
+        },
+        {
+            "question": "What services are offered by the student health center?",
+            "answer": "The student health center offers medical consultations, immunizations, mental health counseling, and wellness programs."
+        },
+        {
+            "question": "How do I apply for graduation?",
+            "answer": "You can apply for graduation by submitting an application through the registrar's office by the deadline specified on the academic calendar."
+        },
+        {
+            "question": "What is the university's policy on class attendance?",
+            "answer": "The university requires students to attend all scheduled classes. Attendance policies, including the number of allowable absences, are set by individual instructors."
+        },
+        {
+            "question": "How do I update my personal information in the student records?",
+            "answer": "You can update your personal information, such as address or phone number, through the student portal or by contacting the registrar's office."
+        },
+        {
+            "question": "What are the dining options available on campus?",
+            "answer": "Dining options on campus include various cafeterias, coffee shops, and restaurants offering a range of cuisines and meal plans."
+        },
+        {
+            "question": "How do I obtain a student ID card?",
+            "answer": "You can obtain a student ID card by visiting the ID card office located in the student services building."
+        },
+        {
+            "question": "What is the university's policy on transfer credits?",
+            "answer": "Transfer credits are evaluated based on accreditation, course content, and grade earned. Policies on transfer credit acceptance can be found in the academic catalog."
+        },
+        {
+            "question": "How can I access my course schedule?",
+            "answer": "Your course schedule can be accessed through the student portal, where you can view class times, locations, and instructors."
+        },
+        {
+            "question": "What resources are available for first-year students?",
+            "answer": "Resources for first-year students include orientation programs, academic advising, peer mentoring, and first-year seminars."
+        },
+        {
+            "question": "How do I get involved in research opportunities on campus?",
+            "answer": "You can get involved in research by contacting your academic department, applying for research assistant positions, or participating in undergraduate research programs."
+        },
+        {
+            "question": "What is the university's inclement weather policy?",
+            "answer": "The university's inclement weather policy includes campus closures, class cancellations, and safety protocols. Updates are communicated via email, text alerts, and the university website."
+        },
+        {
+            "question": "How do I file a complaint or grievance?",
+            "answer": "Complaints or grievances can be filed through the student affairs office or the university's online grievance portal."
+        },
+        {
+            "question": "What is the process for requesting a leave of absence?",
+            "answer": "To request a leave of absence, you must submit a formal application to the registrar's office, providing the reason for the leave and the expected return date."
+        },
+        {
+            "question": "How can I find information about student housing?",
+            "answer": "Information about student housing, including dormitory options, room assignments, and move-in dates, is available on the housing office's website."
+        },
+        {
+            "question": "What is the university's policy on alcohol and drug use?",
+            "answer": "The university enforces a strict policy on alcohol and drug use, prohibiting possession and consumption on campus except in designated areas for legal-age students."
+        },
+        {
+            "question": "How do I sign up for campus emergency alerts?",
+            "answer": "You can sign up for campus emergency alerts through the university's safety and security website, where you can opt-in to receive notifications via text, email, or phone."
+        },
+        {
+            "question": "What extracurricular activities are available on campus?",
+            "answer": "Extracurricular activities include student clubs, sports teams, cultural organizations, and volunteer opportunities, all of which are listed on the student life website."
+        },
+        {
+            "question": "Where can I get help with financial planning for my education?",
+            "answer": "The financial aid office offers counseling on financial planning, including budgeting, loan management, and scholarship opportunities."
+        },
+        {
+            "question": "How do I find out who my academic advisor is?",
+            "answer": "You can find out who your academic advisor is by checking the student portal or contacting your academic department."
+        },
+        {
+            "question": "What is the process for requesting academic accommodations?",
+            "answer": "Academic accommodations can be requested through the disability services office by submitting documentation of your needs."
+        },
+        {
+            "question": "How can I access the university's online library resources?",
+            "answer": "Online library resources, including databases and e-books, can be accessed through the library's website by logging in with your student credentials."
+        },
+        {
+            "question": "What are the rules for parking on campus?",
+            "answer": "Parking on campus requires a valid parking permit, and students must park in designated areas. Specific rules and permit information can be found on the university's parking services website."
+        },
+        {
+            "question": "Where can I find mental health support services on campus?",
+            "answer": "Mental health support services are available at the counseling center, which offers confidential counseling, crisis intervention, and wellness workshops."
+        },
+        {
+            "question": "What is the university's policy on academic probation?",
+            "answer": "Academic probation policies require students who fall below a certain GPA to meet with an advisor and develop a plan for academic improvement."
+        },
+        {
+            "question": "How do I access my student account for billing and payments?",
+            "answer": "You can access your student account for billing and payments through the student portal, where you can view charges, make payments, and set up payment plans."
+        },
+        {
+            "question": "What are the requirements for applying to the honors program?",
+            "answer": "The honors program typically requires a high GPA, strong letters of recommendation, and a personal statement. Application details can be found on the honors program's website."
+        },
+        {
+            "question": "How do I participate in study abroad programs?",
+            "answer": "To participate in study abroad programs, you need to apply through the international programs office, meet eligibility requirements, and attend pre-departure orientations."
+        },
+        {
+            "question": "Where can I find information about student government elections?",
+            "answer": "Information about student government elections, including candidate requirements and voting procedures, is available on the student government's website."
+        },
+        {
+            "question": "What is the process for changing my residency status?",
+            "answer": "To change your residency status for tuition purposes, you must submit a residency reclassification application to the registrar's office, along with supporting documentation."
+        },
+        {
+            "question": "How do I get involved in community service opportunities?",
+            "answer": "Community service opportunities are coordinated through the volunteer services office, where you can find information on upcoming projects and how to sign up."
+        },
+        {
+            "question": "What is the university's policy on sexual harassment?",
+            "answer": "The university has a zero-tolerance policy on sexual harassment, with procedures in place for reporting incidents and receiving support through the Title IX office."
+        },
+        {
+            "question": "How can I request a course override?",
+            "answer": "Course overrides can be requested through your academic advisor or the department offering the course, typically requiring approval based on your academic standing."
+        },
+        {
+            "question": "What are the options for summer session courses?",
+            "answer": "Summer session courses are available in various formats, including online, hybrid, and in-person classes. Details are provided on the summer session website."
+        },
+        {
+            "question": "How do I sign up for campus recreation activities?",
+            "answer": "You can sign up for campus recreation activities, including intramural sports and fitness classes, through the recreation center's online registration system."
+        },
+        {
+            "question": "What support is available for international students?",
+            "answer": "Support for international students includes visa advising, cultural adjustment workshops, and assistance with academic and legal matters through the international office."
+        },
+        {
+            "question": "How do I report an incident of academic dishonesty?",
+            "answer": "Incidents of academic dishonesty should be reported to the academic integrity office or your course instructor following the procedures outlined in the student handbook."
+        },
+        {
+            "question": "Where can I find information about university events?",
+            "answer": "University events are listed on the events calendar available on the university's website, along with details about dates, times, and locations."
+        }
+    ],
+    "general": [
+        {
+            "question": "متى مواعيد التسجيل",
+            "answer": "قبل بدء كل فصل"
+        },
+        {
+            "question": "What is the office hours for DR.Ahmad Absi",
+            "answer": "The office hours for DR Ahmad Absi is 9:00 - 10:00 THU TUE"
+        }
+    ]
+}
